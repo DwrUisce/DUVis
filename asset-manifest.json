@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/DUVis/static/css/main.5a7039ed.css",
+    "main.js": "/DUVis/static/js/main.d0c4b250.js",
+    "static/media/activity_matrix.txt": "/DUVis/static/media/activity_matrix.2e4c16b0750781837483.txt",
+    "static/media/SDG_17.png": "/DUVis/static/media/SDG_17.f970e7c36c351b30a49c.png",
+    "static/media/SDG_12.png": "/DUVis/static/media/SDG_12.d3360baf5738c38a86e2.png",
+    "static/media/SDG_9.png": "/DUVis/static/media/SDG_9.81355d6f8caa71f0977b.png",
+    "static/media/SDG_16.png": "/DUVis/static/media/SDG_16.d9da1670c4b52ac89d90.png",
+    "static/media/SDG_13.png": "/DUVis/static/media/SDG_13.a5a81d4d076ace73c0f7.png",
+    "static/media/SDG_7.png": "/DUVis/static/media/SDG_7.2ec0d1a25cbc81fdfadb.png",
+    "static/media/SDG_3.png": "/DUVis/static/media/SDG_3.f6b9f9379bff6be75230.png",
+    "static/media/SDG_1.png": "/DUVis/static/media/SDG_1.2869a96997aa1ed3009d.png",
+    "static/media/SDG_8.png": "/DUVis/static/media/SDG_8.11c4c71e570b9b125e6f.png",
+    "static/media/SDG_14.png": "/DUVis/static/media/SDG_14.7e925148d030fbe8ad95.png",
+    "static/media/SDG_6.png": "/DUVis/static/media/SDG_6.74efcd0f1d51a5a3f0ab.png",
+    "static/media/SDG_11.png": "/DUVis/static/media/SDG_11.884c794e2a3bb6b91812.png",
+    "static/media/SDG_2.png": "/DUVis/static/media/SDG_2.610a1339a8adb1ddf548.png",
+    "static/media/SDG_4.png": "/DUVis/static/media/SDG_4.f8a53f9bfef979a9796c.png",
+    "static/media/stakeholder_matrix.txt": "/DUVis/static/media/stakeholder_matrix.becd758bc56f50768cb4.txt",
+    "static/media/SDG_15.png": "/DUVis/static/media/SDG_15.8458faf644fdf5afe6c6.png",
+    "static/media/SDG_5.png": "/DUVis/static/media/SDG_5.2f81f05072595bdf2e59.png",
+    "static/media/SDG_10.png": "/DUVis/static/media/SDG_10.a7817c5e3b1c3e6b1eba.png",
+    "static/media/links.txt": "/DUVis/static/media/links.8d7d1a65a9f50dc9a2ff.txt",
+    "static/media/wp_names.txt": "/DUVis/static/media/wp_names.fe724d22f09c3b871f95.txt",
+    "index.html": "/DUVis/index.html",
+    "main.5a7039ed.css.map": "/DUVis/static/css/main.5a7039ed.css.map",
+    "main.d0c4b250.js.map": "/DUVis/static/js/main.d0c4b250.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a7039ed.css",
+    "static/js/main.d0c4b250.js"
+  ]
+}
