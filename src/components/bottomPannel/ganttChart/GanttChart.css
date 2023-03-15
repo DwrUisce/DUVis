@@ -1,0 +1,58 @@
+.gantchart {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  overflow-y: auto;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black;
+  shape-rendering: crispEdges;
+}
+
+.vis-time-axis {
+  font-size: 8pt;
+  border-color: white;
+}
+
+.vis-time-axis .vis-grid.vis-odd {
+  background: #f5f5f5;
+}
+
+.vis-time-axis .vis-grid.vis-even {
+  background: white;
+}
+
+.vis-item {
+  font-size: 9pt;
+  border-width: 2.5px;
+  height: 20px;
+  line-height: 8px;
+  cursor: pointer;
+}
+
+.vis-timeline {
+  visibility: hidden !important;
+}
+
+.show {
+  visibility: visible !important;
+  pointer-events: all;
+}
+
+.selectedItem {
+  border-color: #282828 !important;
+  border-width: 3px !important;
+  line-height: 4px !important;
+  background-color: #282828 !important;
+}
+
+.hilightedItem {
+  background-color: red !important;
+  border-color: red !important;
+  border-width: 3px !important;
+  line-height: 4px !important;
+}

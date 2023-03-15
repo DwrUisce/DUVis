@@ -1,0 +1,84 @@
+.sideBar {
+  padding: 1em;
+  color: #414a4c;
+  z-index: 2000;
+  transition-property: opacity;
+  transition-duration: 0.5s;
+  transition-timing-function: ease-out;
+  pointer-events: all;
+}
+
+.sideBar h1 {
+  font-size: 13pt;
+  margin: 0 0 5px 0;
+  line-height: 1em;
+}
+
+.sideBar h2 {
+  font-size: 11pt;
+  margin: 0;
+}
+
+.sideBar p {
+  font-size: 11pt;
+  margin: 0 0 0 0;
+  margin-block-end: 3px;
+  writing-mode: horizontal-tb;
+  line-height: 1em;
+  opacity: 0.8;
+}
+
+.metaSection {
+  border-bottom: solid #d4d4d4;
+  padding-bottom: 13px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+.completed {
+  opacity: 0.5;
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+.sideBar ul {
+  list-style-position: inside;
+  padding-left: 1em;
+  opacity: 0.8;
+}
+
+.sideBar li {
+  list-style: none;
+  padding-left: -1em;
+  margin-left: -1em;
+  padding-bottom: 0.75em;
+  cursor: pointer;
+  margin-block-end: 3px;
+  writing-mode: horizontal-tb;
+  line-height: 1em;
+  font-size: 11pt;
+}
+
+.sideBar li:hover {
+  color: gray;
+}
+
+.navigateToWp:hover {
+  color: gray;
+  cursor: pointer;
+}
+
+.metaSection .fa {
+  float: right;
+}
+
+/* .metaSectionHead:hover {
+  background-color: black;
+} */
+
+.metaSection .fa:hover {
+  color: grey;
+  cursor: pointer;
+}

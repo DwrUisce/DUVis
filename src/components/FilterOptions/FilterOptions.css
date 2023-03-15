@@ -1,0 +1,120 @@
+.filterOptions {
+  padding: 0px 15px 0px 0px;
+  font-size: 10pt;
+  position: relative;
+  width: fit-content;
+}
+
+.filterOptions p {
+  margin: 0;
+}
+
+.filterOptions button {
+  pointer-events: all;
+  margin-bottom: 5px;
+  margin-right: 5px;
+}
+
+.filterOptions input {
+  pointer-events: all;
+  cursor: pointer;
+  accent-color: grey;
+  margin-bottom: 2px;
+}
+
+.filterOptions select {
+  pointer-events: all;
+  cursor: pointer;
+  accent-color: grey;
+  font-size: 9pt;
+  font-weight: 600;
+  opacity: 0.7;
+  margin-bottom: 2px;
+}
+
+.filterOptions option {
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.filterOptions .fa {
+  padding-left: 5px;
+}
+
+.toggleButtons {
+  border-bottom: 1px solid #e4e4e4;
+}
+
+.bottomPannelButtons {
+  padding-top: 5px;
+  float: right;
+}
+
+.filterOptionButton {
+  padding: 4px 10px;
+}
+
+.filterOptions input {
+  font-size: 9pt;
+  font-weight: 600;
+  opacity: 0.7;
+}
+
+.storyFilter {
+  padding-bottom: 5px;
+}
+
+.storyOptions {
+  padding-bottom: 5px;
+  pointer-events: all;
+}
+
+.storyOptions p {
+  display: contents;
+  font-size: 10pt;
+  font-weight: 600;
+  opacity: 0.7;
+}
+
+.storyOptions p:hover {
+  color: gray;
+  cursor: pointer;
+}
+
+.filterDescription p:hover {
+  color: black;
+  pointer-events: none;
+}
+
+.deleteStory {
+  /* pointer-events: all; */
+  float: right;
+  padding-right: 20px;
+}
+
+.deleteStory:hover {
+  color: gray;
+  cursor: pointer;
+}
+
+.veiwFilter {
+  padding-left: 20px;
+}
+
+.filterDescription p {
+  font-size: 9pt;
+  font-weight: 500;
+}
+
+.filterDescription {
+  padding-left: 15px;
+}
+
+.stories {
+  width: 250px;
+  word-wrap: break-word;
+}
+
+.optionField {
+  font-weight: 510 !important;
+}

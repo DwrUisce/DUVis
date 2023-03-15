@@ -1,0 +1,58 @@
+{
+  "name": "dwr-uisce-vis-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "cytoscape": "^3.22.1",
+    "cytoscape-cola": "^2.5.1",
+    "cytoscape-cose-bilkent": "^4.1.0",
+    "cytoscape-no-overlap": "^1.0.1",
+    "cytoscape-node-html-label": "^1.2.2",
+    "cytoscape-popper": "^2.0.0",
+    "lodash.clonedeep": "^4.5.0",
+    "react": "^18.2.0",
+    "react-cytoscapejs": "^1.2.1",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.4.0",
+    "react-split-pane": "^0.1.92",
+    "react-vega": "^7.6.0",
+    "react-vis-timeline-2": "^2.1.6",
+    "tippy.js": "^6.3.7",
+    "vega": "^5.22.1",
+    "vega-lite": "^5.5.0",
+    "vega-tooltip": "^0.28.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "cytoscape-fcose": "^2.1.0"
+  },
+  "homepage": "duvis"
+}
