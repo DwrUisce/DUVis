@@ -11,6 +11,6 @@ Extended instructional video [here](https://studio.youtube.com/video/iXEZA1tqFbE
 
 Video demo [here](https://youtu.be/xm0ksZV1c30)
 
-live demo [here](https://arigby.me/duvis/)
+live demo [here](https://dwruisce.github.io/DUVis/)
 
 
